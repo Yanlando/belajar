@@ -3,4 +3,7 @@ Resolusi belajar
 - Menguasai javascript
 
 Tambahan 1
-- Menguasai elemen api dan air
+- Menguasai elemen api
+
+Tambahan 2
+- Elemen cahaya

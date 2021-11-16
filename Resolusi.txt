@@ -1,3 +1,6 @@
 Resolusi belajar
 - Menguasai GitHub
 - Menguasai javascript
+
+Tambahan 1
+- Menguasai elemen api dan air
